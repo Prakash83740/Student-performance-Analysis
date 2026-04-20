@@ -64,11 +64,3 @@ This project demonstrates skills in:
 - Dashboard creation in Power BI  
 - GitHub project deployment  
 
----
-
-## 💼 Resume Line
-Student Performance Analysis Dashboard | Python, Power BI, GitHub  
-- Built an interactive dashboard analyzing student performance data  
-- Identified key academic performance factors using Power BI  
-- Performed EDA using Python (Pandas, Seaborn)  
-- Published project on GitHub with structured documentation
